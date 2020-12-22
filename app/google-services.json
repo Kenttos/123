@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "196460702778",
+    "firebase_url": "https://drop-ef68e.firebaseio.com",
+    "project_id": "drop-ef68e",
+    "storage_bucket": "drop-ef68e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196460702778:android:34ba1fe648daa01cc89903",
+        "android_client_info": {
+          "package_name": "com.example.drop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196460702778-hva48f14oifmi8ulr97injpm5l3du3rl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drop",
+            "certificate_hash": "5e06d1d5cf74db000afa45ee53210dac6041a6ca"
+          }
+        },
+        {
+          "client_id": "196460702778-lo23c7mau41nvl7jf1g2klt26m7b1bl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3PYfAiPrg73oz2SZuWICcTQ-RNMQVMKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196460702778-lo23c7mau41nvl7jf1g2klt26m7b1bl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
